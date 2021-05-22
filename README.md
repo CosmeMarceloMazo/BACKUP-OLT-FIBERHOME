@@ -81,7 +81,7 @@ Para o funcionamento correto do script baixe as bibliotecas
   
   <p>
   Insira o chat id no arquivo config.ini no campo USUARIO = <Seu id no telegram>;
-  </p>
+  </p><p></p>
   
   
   
