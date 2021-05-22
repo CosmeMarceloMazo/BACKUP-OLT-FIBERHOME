@@ -89,4 +89,4 @@ Para o funcionamento correto do script baixe as bibliotecas
 
   
 ### Contribuindo
-Desde de já agradeço por se disponibilizar a contribuir com melhorias para este script. Todos podem ajudar este projeto com novos recursos, correções de bugs ou melhorias de desempenho.
+Desde de já agradeço por se disponibilizarem a contribuir com melhorias para este script. Todos podem ajudar este projeto com novos recursos, correções de bugs ou melhorias de desempenho.
