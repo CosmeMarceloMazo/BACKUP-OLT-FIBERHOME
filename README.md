@@ -32,7 +32,7 @@ Para o funcionamento correto do script baixe as bibliotecas
   </p>
   x-special/nautilus-clipboard
 copy
-file:///home/marcelo/Imagens/bot%20telegran/fig1.png
+
 
 ### Contribuindo
 Desde de já agradeço por se disponibilizar a contribuir com melhorias para este script. Todos podem ajudar este projeto com novos recursos, correções de bugs ou melhorias de desempenho.
