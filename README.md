@@ -27,8 +27,12 @@ Para o funcionamento correto do script baixe as bibliotecas
 
 ### Bot Telegram
   <a href="https://core.telegram.org/bots#6-botfather">Crie um bot no Telegram</a> para receber as mensagens de alerta
-<p>
-Primeiro passo é ter um Telegram Bot. Para criá-lo, abra seu app do Telegram, busque por: @BotFather e clique sobre ele;
-</p>
+  <p>
+    Primeiro passo é ter um Telegram Bot. Para criá-lo, abra seu app do Telegram, busque por: @BotFather e clique sobre ele;
+  </p>
+  x-special/nautilus-clipboard
+copy
+file:///home/marcelo/Imagens/bot%20telegran/fig1.png
+
 ### Contribuindo
 Desde de já agradeço por se disponibilizar a contribuir com melhorias para este script. Todos podem ajudar este projeto com novos recursos, correções de bugs ou melhorias de desempenho.
