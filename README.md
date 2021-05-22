@@ -61,6 +61,16 @@ Para o funcionamento correto do script baixe as bibliotecas
   <p>
   Insira o Token no arquivo config.ini no campo TOKEN = <Token Telegram do BOT>;
   </p>
+  <p>
+  Para descobrir seu chat id busque no telegram por @userinfobot;
+  </p>
+  
+  ![fig6](https://user-images.githubusercontent.com/46397610/119212478-fac0e500-ba8e-11eb-88b4-3cc916c6441e.png)
+  
+  <p>
+  Insira o chat id no arquivo config.ini no campo USUARIO = <Seu id no telegram>;
+  </p>
+
   
 ### Contribuindo
 Desde de já agradeço por se disponibilizar a contribuir com melhorias para este script. Todos podem ajudar este projeto com novos recursos, correções de bugs ou melhorias de desempenho.
