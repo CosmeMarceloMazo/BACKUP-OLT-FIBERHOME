@@ -26,7 +26,7 @@ Para o funcionamento correto do script baixe as bibliotecas
 </p>
 
 ### Bot Telegram
-  <a href="https://pypi.org/project/pytz/">Crie um bot no Telegram</a> para receber as mensagens de alerta
+  <a href="https://core.telegram.org/bots#6-botfather">Crie um bot no Telegram</a> para receber as mensagens de alerta
 <p>
 Primeiro passo é ter um Telegram Bot. Para criá-lo, abra seu app do Telegram, busque por: @BotFather e clique sobre ele;
 </p>
