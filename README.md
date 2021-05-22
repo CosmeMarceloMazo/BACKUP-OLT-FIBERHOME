@@ -30,8 +30,8 @@ Para o funcionamento correto do script baixe as bibliotecas
   <p>
     Primeiro passo é ter um Telegram Bot. Para criá-lo, abra seu app do Telegram, busque por: @BotFather e clique sobre ele;
   </p>
- 
- ![fig1](https://user-images.githubusercontent.com/46397610/119211526-175a1e80-ba89-11eb-8783-bc929f2fe7dd.png)
+  
+ ![fig1](https://user-images.githubusercontent.com/46397610/119211619-acf5ae00-ba89-11eb-8238-8e838ea5a229.png)
  
   <p>
     Envie o comando: /newbot;
@@ -57,7 +57,10 @@ Para o funcionamento correto do script baixe as bibliotecas
   </p>
   
   ![fig5](https://user-images.githubusercontent.com/46397610/119211465-93079b80-ba88-11eb-929c-9e5352e98cdc.png)
-
+  
+  <p>
+  Insira o Token no arquivo config.ini no campo TOKEN = <Token Telegram do BOT>;
+  </p>
   
 ### Contribuindo
 Desde de já agradeço por se disponibilizar a contribuir com melhorias para este script. Todos podem ajudar este projeto com novos recursos, correções de bugs ou melhorias de desempenho.
