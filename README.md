@@ -62,6 +62,18 @@ Para o funcionamento correto do script baixe as bibliotecas
   Insira o Token no arquivo config.ini no campo TOKEN = <Token Telegram do BOT>;
   </p>
   <p>
+  Clique no link para seu bot; 
+  </p>
+  
+  ![fig7](https://user-images.githubusercontent.com/46397610/119212673-5049c180-ba90-11eb-9cdd-091987f15294.png)
+  
+  <p>
+  Clique em começar ou envie /start no chat para poder receber as notificações;
+  </p>
+  
+  ![fig8](https://user-images.githubusercontent.com/46397610/119212844-686e1080-ba91-11eb-8aa6-de8c2fb49f44.png)
+
+  <p>
   Para descobrir seu chat id busque no telegram por @userinfobot;
   </p>
   
@@ -70,6 +82,10 @@ Para o funcionamento correto do script baixe as bibliotecas
   <p>
   Insira o chat id no arquivo config.ini no campo USUARIO = <Seu id no telegram>;
   </p>
+  
+  
+  
+  
 
   
 ### Contribuindo
