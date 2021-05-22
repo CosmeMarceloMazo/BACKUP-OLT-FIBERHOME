@@ -31,8 +31,7 @@ Para o funcionamento correto do script baixe as bibliotecas
     Primeiro passo é ter um Telegram Bot. Para criá-lo, abra seu app do Telegram, busque por: @BotFather e clique sobre ele;
   </p>
  
- ![fig1](https://user-images.githubusercontent.com/46397610/119211041-5a66c280-ba86-11eb-9965-75dcb36cba63.png)
-
+ ![fig1](https://user-images.githubusercontent.com/46397610/119211526-175a1e80-ba89-11eb-8783-bc929f2fe7dd.png)
  
   <p>
     Envie o comando: /newbot;
