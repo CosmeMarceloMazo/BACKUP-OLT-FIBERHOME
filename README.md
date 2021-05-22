@@ -19,6 +19,9 @@ Para o funcionamento correto do script baixe as bibliotecas
   <a href="https://docs.python.org/3/library/telnetlib.html">🔗 telnetlib</a>
 </p>
 <p>
+  <a href="https://docs.python.org/3/library/time.html">🔗 time</a>
+</p>
+<p>
   <a href="https://pypi.org/project/pytz/">🔗 pytz</a>
 </p>
 
