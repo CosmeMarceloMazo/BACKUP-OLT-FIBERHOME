@@ -24,5 +24,9 @@ Para o funcionamento correto do script baixe as bibliotecas
 <p>
   <a href="https://pypi.org/project/pytz/">🔗 pytz</a>
 </p>
+
 ### Bot Telegram
-  Crie um bot no telegram para receber as mensagens de alerta
+  <a href="https://pypi.org/project/pytz/">Crie um bot no Telegram</a> para receber as mensagens de alerta
+
+### Contribuindo
+Desde de já agradeço por se disponibilizar a contribuir com melhorias para este script. Todos podem ajudar este projeto com novos recursos, correções de bugs ou melhorias de desempenho.
