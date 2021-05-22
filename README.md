@@ -6,7 +6,9 @@ Script desenvolvido em Python3 para automatizar o backup das configurações e l
 
 ### Bibliotecas Necessárias
 Para o funcionamento correto do script baixe as bibliotecas
-<p>datetime</p>
+<p>
+  <a href="https://docs.python.org/3/library/datetime.html">🔗 datetime</a>
+</p>
 <p>configparser</p>
 <p>pytz</p>
 <p>telegram</p>
