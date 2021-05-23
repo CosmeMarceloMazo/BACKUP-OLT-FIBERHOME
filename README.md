@@ -86,7 +86,7 @@ Para o funcionamento correto do script baixe as bibliotecas
 ### Rodando o Script no Linux
   
   <p>
-  Instale o screen no seu servidor caso não tenha, no Debian ou Ubuntu use o comando apt-get install screen;
+  Instale o <a href="https://www.gnu.org/software/screen/">screen</a> no seu servidor caso não tenha, no Debian ou Ubuntu use o comando apt-get install screen;
   </p>
   
   <p>
