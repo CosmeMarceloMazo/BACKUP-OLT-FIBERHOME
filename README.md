@@ -90,7 +90,7 @@ Para o funcionamento correto do script baixe as bibliotecas
   </p>
   
   <p>
-  No terminal digite screen para iniciar a sessão, depois navegue até o diretório onde se encontra o script e digite python3 nome_do_seu_script.py
+  No terminal digite screen para iniciar a sessão, navegue até o diretório onde se encontra o script e digite python3 SeuScript.py
   </p>
   
 
