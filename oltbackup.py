@@ -97,14 +97,14 @@ while (num > 0) :
             # Executa os comandos no terminal
             terminal.read_until(b"Admin# ", timeout=30) 
             terminal.write(telnet_save.encode('ascii') + b"\n") # Salva na flash
-            terminal.read_until(b"Admin# ", timeout=60) 
-            time.sleep(15)
+            terminal.read_until(b"Admin# ", timeout=60) # timeout pode variar, altere se necessário
+            time.sleep(15) # Tempo necessário para gravar no arquivo de logs
             terminal.write(telnet_cmd1.encode('ascii') + b"\n") # Primeiro backup
             terminal.read_until(b"Admin# ", timeout=30) 
-            time.sleep(15)
+            time.sleep(15) # Tempo necessário para gravar no arquivo de logs
             terminal.write(telnet_cmd2.encode('ascii') + b"\n") # Segundo backup
             terminal.read_until(b"Admin# ", timeout=30) 
-            time.sleep(15)
+            time.sleep(15) # Tempo necessário para gravar no arquivo de logs
             terminal.write(telnet_cmd3.encode('ascii') + b"\n") # Terceiro backup
             terminal.read_until(b"Admin# ", timeout=30) 
 
