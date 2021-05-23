@@ -68,9 +68,11 @@ while (num > 0) :
                 nome_olt = 'OLT 2 Apelido da OLT' # Nome que será enviado no telegram
             
             """
+            
             Caso tenha apenas uma OLT apague ou comente o elif
             Caso tenha mais de uma OLT copie o elif e altere os nomes para acrescentá-las(não há limite)
-
+            Altere o valor da variável siclo.
+            
             """  
 
             # Comandos Telnet para fazer os backups 
