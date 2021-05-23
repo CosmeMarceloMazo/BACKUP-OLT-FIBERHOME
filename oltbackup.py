@@ -75,8 +75,8 @@ while (num > 0) :
 
             # Comandos Telnet para fazer os backups 
             telnet_cmd1 = 'upload ftp config ' + ftp_server + ' ' + ftp_user + ' ' + ftp_pass + ' ' + diretorio + arquivo1
-            telnet_cmd2 = 'upload ftp syslog ' + ftp_server + ' ' + ftp_user + ' ' + ftp_pass + ' ' + diretorio + arquivo2
-            telnet_cmd3 = 'upload ftp system ' + ftp_server + ' ' + ftp_user + ' ' + ftp_pass + ' ' + diretorio + arquivo3
+            telnet_cmd2 = 'upload ftp system ' + ftp_server + ' ' + ftp_user + ' ' + ftp_pass + ' ' + diretorio + arquivo2
+            telnet_cmd3 = 'upload ftp syslog ' + ftp_server + ' ' + ftp_user + ' ' + ftp_pass + ' ' + diretorio + arquivo3
             
             terminal = Telnet(olt, timeout=10) # Acessa a OLT
             
