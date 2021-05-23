@@ -83,8 +83,15 @@ Para o funcionamento correto do script baixe as bibliotecas
   Insira o chat id no arquivo config.ini no campo USUARIO = <Seu id no telegram>;
   </p><p></p>
   
+### Rodando o Script no Linux
   
+  <p>
+  Instale o screen no seu servidor caso não tenha, no Debian ou Ubuntu use o comando apt-get install screen;
+  </p>
   
+  <p>
+  No terminal digite screen para iniciar a sessão, depois navegue até o diretório onde se encontra o script e digite python3 <nome do script>.py
+  </p>
   
 
   
