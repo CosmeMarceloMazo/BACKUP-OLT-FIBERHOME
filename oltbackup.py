@@ -145,8 +145,8 @@ while (num > 0) :
             bot.send_message(chat_id=config['CREDENCIAIS']['USUARIO'], \
                      text='💾 Bom dia, os backups das ' + str(lista) + ', foram realizado com sucesso!')
             
-            del(nome_olt)
-            nome_olt = []
+            del(lista)
+            lista = []
             
 
 
